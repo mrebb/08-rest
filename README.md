@@ -1,11 +1,11 @@
 ![cf](https://i.imgur.com/7v5ASc8.png) Lab 08: REST
 ======
 
-<img src="https://travis-ci.com/mrebb/07-http-server.svg?branch=master">
+<img src="https://travis-ci.com/mrebb/08-rest.svg?branch=master">
 
-TRAVIS:
+## TRAVIS: https://travis-ci.com/mrebb/08-rest 
 
-HEROKU:
+## HEROKU: https://restapilab.herokuapp.com 
 
 ## Rest api module
 

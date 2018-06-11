@@ -16,8 +16,6 @@ methods.forEach( (method) => {
   router.routes.PUT = {};
   router.routes.DELETE = {};
   router.routes[method] = {};
-
-  console.log('test', router.routes);
   router[method.toLowerCase()] = function(path, callback) {
     router.routes[method][path] = callback;
   };

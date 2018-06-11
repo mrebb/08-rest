@@ -5,7 +5,6 @@ let http = require('http');
 
 // Our modules
 const router = require('../src/lib/router');
-const api = require('../src/api/api');
 
 // Flag to know if we are up and going
 let isRunning = false;
